@@ -27,3 +27,5 @@ local*.py
 *.db
 *.tar.bz2
 .pytest_cache/
+.vscode/
+.idea/
