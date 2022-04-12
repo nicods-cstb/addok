@@ -20,3 +20,7 @@ Powered by Python and Redis.
 [![Requirements Status](https://requires.io/github/addok/addok/requirements.svg?branch=master)](https://requires.io/github/addok/addok/requirements/?branch=master)
 [![PyPi version](https://img.shields.io/pypi/v/addok.svg)](https://pypi.python.org/pypi/addok/)
 [![Coverage Status](https://coveralls.io/repos/addok/addok/badge.svg?branch=master&service=github)](https://coveralls.io/github/addok/addok?branch=master)
+
+
+### Tip: Easy redis
+docker run --name redis_local -p 6379:6379 redis
