@@ -1,8 +1,8 @@
-falcon==3.0.1
-hashids==1.3.1
-hiredis==2.0.0
-editdistance==0.6.0
-progressist==0.1.0
-python-geohash==0.8.5
-redis==4.1.4
-Unidecode==1.3.4
+falcon
+hashids
+hiredis
+editdistance
+progressist
+python-geohash
+redis
+Unidecode
